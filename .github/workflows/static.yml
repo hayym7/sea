@@ -16,5 +16,5 @@ jobs:
           # TOKEN: ${{ secrets.TOKEN }}
           # Or if publishing to the same repo, use the automatic token
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: ../..
+          BUILD_DIR: /home/runner/work/bilalsea.github.io/bilalsea.github.io
           
