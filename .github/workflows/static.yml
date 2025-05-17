@@ -15,16 +15,3 @@ jobs:
           BUILD_DIR: anemone
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: hayym7/bilalsea.github.io
-  build_and_deploy:
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-    steps:
-      - name: 'checkout'
-        uses: actions/checkout@v4
-      - name: 'build and deploy'
-        uses: shalzz/zola-deploy-action@master
-        env:
-          PAGES_BRANCH: master
-          BUILD_DIR: anemone
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY: hayym7/bilalsea.github.io
