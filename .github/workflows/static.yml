@@ -24,6 +24,6 @@ jobs:
         uses: shalzz/zola-deploy-action@master
         env:
           PAGES_BRANCH: master
-          BUILD_DIR: ../..
+          BUILD_DIR: anemone
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY: username/username.github.io
+          REPOSITORY: hayym7/bilalsea.github.io
