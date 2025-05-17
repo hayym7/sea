@@ -1,0 +1,3 @@
+[submodule "web/themes/serene"]
+	path = web/themes/serene
+	url = https://github.com/Stash-of-forks/serene.git
