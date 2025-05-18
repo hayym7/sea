@@ -14,4 +14,4 @@ jobs:
           PAGES_BRANCH: gh-pages
           BUILD_DIR: web
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_HOSTNAME: hayym7.github.io
+          CHECK_LINKS: true
