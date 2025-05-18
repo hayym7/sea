@@ -11,6 +11,7 @@ footer = false
 name = "Bilol Bakhrillaev"
 id = "hayym7"
 bio = "engineer, runner. student-for-life"
+avatar = "static/img/avatar.webp"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/hayym7" },
     { name = "Email", icon = "email", url = "mailto:bilolbakhrillaev@gmail.com" },
