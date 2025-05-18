@@ -11,9 +11,7 @@ generate_feeds = true
 lang = "en"
 
 title = "Posts"
-subtitle = ""
-
-<!-- "Posts are purposefully divided into three categories: mind, body and spirit. I write about engineering, research and problem solving in general for mind; running, health and nutrition for body; and insightful self-improving tips and personal experiences for spirit." -->
+subtitle = "wish you a good read!"
 
 date_format = "%b %-d, %Y"
 
