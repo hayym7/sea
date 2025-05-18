@@ -27,5 +27,5 @@ date_format = "%b %-d, %Y"
 
 Hi there! I am Bilol Bakhrillaev, a high school senior from Uzbekistan. 
 
-My interests are centered around quantum computing and computer engineering. I have experience in linux ricing <link>, problem solving <link>, data science <link>. Beyond that, I actively run, work on passion projects, and learn new stuff.
+My interests are centered around quantum computing and computer engineering. I have experience in linux ricing , problem solving , data science . Beyond that, I actively run, work on passion projects, and learn new stuff.
 
