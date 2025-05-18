@@ -15,3 +15,4 @@ jobs:
           BUILD_DIR: web
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: hayym7/sea
+          GITHUB_HOSTNAME: hayym7.github.io
