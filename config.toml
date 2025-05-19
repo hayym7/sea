@@ -38,7 +38,7 @@ sections = [
   { name = "posts", path = "/posts", is_external = false },
   { name = "tags", path = "/tags", is_external = false },
   # { name = "github", path = "https://github.com/hayym7", is_external = true },
-  { name = "about", path = "/about", is_external = false },
+  # { name = "about", path = "/about", is_external = false },
 ]
 blog_section_path = "/posts"
 
@@ -53,4 +53,4 @@ not_found_recover_text = "« back to home »"
 
 reaction = false # Whether to enable anonymous emoji reactions (Note: You need to set up a working api endpoint to enable this feature)
 reaction_align = "right" # "left" | "center" | "right"
-reaction_endpoint = "https://hayym7.github.io/web/api/reaction"
+reaction_endpoint = "https://bilalsns.github.io/web/api/reaction"

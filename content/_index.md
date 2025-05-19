@@ -24,7 +24,9 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Hi there! I am Bilol Bakhrillaev, a high school senior from Uzbekistan. 
+Hi there! I am Bilal, a high school senior from Uzbekistan. 
 
-My interests are centered around quantum computing and computer engineering. I have experience in linux ricing , problem solving , data science . Beyond that, I actively run, work on passion projects, and learn new stuff.
+My academic interests are centered around quantum computing and machine learning. I have internship experience at SarmoLabs where I worked on LLMs, RAG models and NLP in general. I have also found and contributed to Up2Mates, where I developed a semantic match-making algorithm for connecting like-minded students. I am currently learning quantum mechanics & computing and exploring deeper in the field of machine learning.
+
+Beyond that, I actively run, work on passion projects, and read.
 

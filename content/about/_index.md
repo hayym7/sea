@@ -7,7 +7,7 @@ insert_anchor_links = "none"
 [extra]
 lang = 'en'
 
-title = "Posts"
+title = "About me"
 subtitle = "I write about ...."
 
 math = false
