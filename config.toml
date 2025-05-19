@@ -1,6 +1,6 @@
 base_url = "https://bilalsns.github.io/"
-title = "Welcome!"
-description = "xxxx xxxx xxxx"
+title = "/home"
+description = "Bilal's page"
 default_language = "en"
 theme = "serene"
 output_dir = "public"
@@ -36,8 +36,8 @@ anchors = "on"
 
 sections = [
   { name = "posts", path = "/posts", is_external = false },
-  # { name = "tags", path = "/tags", is_external = false },
-  { name = "github", path = "https://github.com/hayym7", is_external = true },
+  { name = "tags", path = "/tags", is_external = false },
+  # { name = "github", path = "https://github.com/hayym7", is_external = true },
   { name = "about", path = "/about", is_external = false },
 ]
 blog_section_path = "/posts"
