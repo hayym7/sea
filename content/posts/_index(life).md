@@ -3,9 +3,15 @@ title = "/posts/life"
 description = "personal blog (≧◡≦)"
 sort_by = "date"
 template = "blog.html"
-page_template = "post.html"
+page_template = "postlife.html"
 insert_anchor_links = "right"
 generate_feeds = true
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
 
 [extra]
 

@@ -7,6 +7,12 @@ page_template = "post.html"
 insert_anchor_links = "right"
 generate_feeds = true
 
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+
 [extra]
 
 sections = [

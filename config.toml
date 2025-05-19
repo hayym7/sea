@@ -41,6 +41,7 @@ sections = [
   # { name = "about", path = "/about", is_external = false },
 ]
 blog_section_path = "/posts"
+personal_blog_section_path = "/posts/life"
 
 back_link_text = "Back" # Text of the back button
 force_theme = false # false | "light" | "dark"
