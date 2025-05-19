@@ -7,12 +7,6 @@ page_template = "postlife.html"
 insert_anchor_links = "right"
 generate_feeds = true
 
-[slugify]
-paths = "on"
-taxonomies = "on"
-anchors = "on"
-
-
 [extra]
 
 sections = [
