@@ -1,5 +1,5 @@
 +++
-title = "/posts"
+title = "/posts/life"
 description = "personal blog (≧◡≦)"
 sort_by = "date"
 template = "blog.html"
@@ -8,6 +8,11 @@ insert_anchor_links = "right"
 generate_feeds = true
 
 [extra]
+
+sections = [
+  { name = "ai blog", path = "/posts/", is_external = false },
+]
+
 lang = "en"
 
 title = "Posts"

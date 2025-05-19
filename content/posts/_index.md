@@ -8,6 +8,11 @@ insert_anchor_links = "right"
 generate_feeds = true
 
 [extra]
+
+sections = [
+  { name = "personal blog", path = "/posts/life", is_external = false },
+]
+
 lang = "en"
 
 title = "Posts"
