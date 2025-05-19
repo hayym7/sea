@@ -9,11 +9,11 @@ footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
 name = "Bilol Bakhrillaev"
-id = "hayym7"
-bio = "engineer, runner. student-for-life"
+id = "bilalsns"
+bio = "engineer, runner"
 avatar = "img/avatar.webp"
 links = [
-    { name = "GitHub", icon = "github", url = "https://github.com/hayym7" },
+    { name = "GitHub", icon = "github", url = "https://github.com/bilalsns" },
     { name = "Email", icon = "email", url = "mailto:bilolbakhrillaev@gmail.com" },
 ]
 

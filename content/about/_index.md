@@ -1,5 +1,5 @@
 +++
-title = "About me"
+title = "/about"
 description = "About page of ..."
 template = "prose.html"
 insert_anchor_links = "none"
@@ -17,4 +17,4 @@ comment = false
 reaction = false
 +++
 
-Hi, My name is ....
+Hi, My name is...

@@ -1,5 +1,5 @@
 +++
-title = "seaLog"
+title = "/posts"
 description = "science, engineering, ai & more"
 sort_by = "date"
 template = "blog.html"
