@@ -1,6 +1,6 @@
 +++
 title = "/posts"
-description = "my findings in ai |╯°□°）╯︵ ⌨"
+description = "|╯°□°）╯︵ ⌨"
 sort_by = "date"
 template = "blog.html"
 page_template = "post.html"
@@ -9,14 +9,10 @@ generate_feeds = true
 
 [extra]
 
-sections = [
-  { name = "personal blog", path = "/posts/life", is_external = false },
-]
-
 lang = "en"
 
 title = "Posts"
-subtitle = "on ai & engineering"
+subtitle = "on ai & more"
 
 date_format = "%b %-d, %Y"
 
