@@ -26,7 +26,7 @@ date_format = "%b %-d, %Y"
 
 Hi there! I am Bilal, a recent high school graduate from Uzbekistan. 
 
-My academic interests are centered around computer vision and machine learning. I have internship experience at [SarmoLabs](https://sarmo.vc/) where I worked on LLMs, RAG models and NLP in general to automate law assistance. I have also found and contributed to [Up2Mates](https://github.com/bilalsns/up2mates) ([Xalqa](https://t.me/Xalqauzbot)), where I developed a semantic match-making algorithm <a href="https://github.com/bilalsns/Semantic-Sort" style="text-decoration: none;">(see here)</a> for connecting like-minded students. I am currently learning quantum physics and exploring deeper in the field of machine learning.
+My academic interests are centered around computer vision and machine learning. I have internship experience at [SarmoLabs](https://sarmo.vc/) where I worked on LLMs, RAG models and NLP in general to automate law assistance. I have also found and contributed to [Up2Mates](https://github.com/bilalsns/up2mates) ([Xalqa](https://t.me/Xalqauzbot)), where I developed a semantic match-making algorithm [(see here)](https://github.com/bilalsns/Semantic-Sort) for connecting like-minded students. I am currently learning quantum physics and exploring deeper in the field of machine learning.
 
 Beyond that, I actively run, work on passion projects, and read.
 
