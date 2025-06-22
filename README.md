@@ -1,1 +1,1 @@
-This is sea, my personal website based on Zola and Serene.
+This is my personal website based on Zola and Serene.
