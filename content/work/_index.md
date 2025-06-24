@@ -12,4 +12,8 @@ subtitle = "what i do for fun"
 
 +++
 
+## Experiences
+{{ collection(file="experiences.toml") }}
+
+## Projects
 {{ collection(file="projects.toml") }}
