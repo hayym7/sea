@@ -1,6 +1,6 @@
 [[collection]]
 type = "card"
-icon = "/static/icon/sarmovc.svg"
+icon = "/assets/sarmovc.svg"
 title = "Sarmo Labs"
 subtitle = "AI Intern"
 date = "2024-2025"
