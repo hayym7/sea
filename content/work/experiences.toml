@@ -1,6 +1,6 @@
 [[collection]]
 type = "card"
-icon = "/assets/sarmovc.svg"
+icon = "/icon/sarmovc.svg"
 title = "Sarmo Labs"
 subtitle = "AI Intern"
 date = "2024-2025"
@@ -17,7 +17,7 @@ to collection of common data sets of universities for AI-agent that helps with c
 
 [[collection]]
 type = "card"
-icon = "/assets/up2mates.svg"
+icon = "/icon/up2mates.svg"
 title = "Xalqa (ex-Up2mates)"
 subtitle = "Co-founder"
 date = "2024-2025"
