@@ -1,11 +1,7 @@
 +++
-title = "/posts"
+title = "/projects"
 description = "|╯°□°）╯︵ ⌨"
-sort_by = "date"
-template = "blog.html"
-page_template = "prose.html"
-insert_anchor_links = "right"
-generate_feeds = true
+template = "prose.html"
 
 [extra]
 
@@ -14,6 +10,6 @@ lang = "en"
 title = "Projects"
 subtitle = "what i do for fun"
 
-date_format = "%b %-d, %Y"
+{{ collection(file="projects.toml") }}
 
 +++
