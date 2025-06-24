@@ -7,7 +7,7 @@ template = "prose.html"
 
 lang = "en"
 
-title = "Projects"
+title = "My Work"
 subtitle = "what i do for fun"
 
 +++
