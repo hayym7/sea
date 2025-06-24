@@ -11,7 +11,7 @@ footer = false
 name = "Bilol Bakhrillaev"
 id = "bilalsns"
 bio = "engineer, athlete"
-avatar = "img/avatar.webp"
+avatar = "img/avatar-1.webp"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/bilalsns" },
     { name = "Email", icon = "email", url = "mailto:bilolbakhrillaev@gmail.com" },
