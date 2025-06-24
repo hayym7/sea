@@ -9,7 +9,6 @@ lang = "en"
 
 title = "My Work"
 subtitle = "what i do for fun"
-
 +++
 ## Experiences
 {{ collection(file="experiences.toml") }}
