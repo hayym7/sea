@@ -1,5 +1,5 @@
 +++
-title = "/about"
+title = "~/about"
 description = "About page of ..."
 template = "prose.html"
 insert_anchor_links = "none"

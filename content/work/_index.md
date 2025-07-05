@@ -1,5 +1,5 @@
 +++
-title = "/work"
+title = "~/work"
 description = "|╯°□°）╯︵ ⌨"
 template = "prose.html"
 

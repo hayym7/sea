@@ -14,7 +14,7 @@ bio = "engineer, athlete"
 avatar = "img/avatar-1.webp"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/bilalsns" },
-    { name = "Email", icon = "email", url = "mailto:bilolbakhrillaev@gmail.com" },
+    { name = "Email", icon = "email", url = "mailto:bilal@omizu.cc" },
 ]
 
 # Show a few recent posts in home page
