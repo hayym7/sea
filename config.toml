@@ -1,4 +1,4 @@
-base_url = "https://www.omizu.cc"
+base_url = "https://bilalsns.github.io/web"
 title = "~/home"
 description = "Bilal's page"
 default_language = "en"
@@ -54,4 +54,4 @@ not_found_recover_text = "« back to home »"
 
 reaction = false # Whether to enable anonymous emoji reactions (Note: You need to set up a working api endpoint to enable this feature)
 reaction_align = "right" # "left" | "center" | "right"
-reaction_endpoint = "https://omizu.cc/web/api/reaction"
+reaction_endpoint = "https://bilalsns.github.io/web/api/reaction"
